@@ -1,0 +1,9 @@
+git init
+git status
+git add
+git commit -m "initial commit"
+            make repo
+git remote add origin _____@______
+git push origin master
+        (git push)
+    git clione     'ssh"
